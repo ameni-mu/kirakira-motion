@@ -1,15 +1,5 @@
-# 🚀 Welcome to your new awesome project!
+# kirakira motion
 
-This project has been created using **webpack-cli**, you can now run
+![参考]](https://atelier-ameni.com/github/sample.jpg "参考")
 
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+This project has been created using **webpack-cli**
